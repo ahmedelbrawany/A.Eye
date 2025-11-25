@@ -1,26 +1,93 @@
-Non-Commercial + Revenue-Share License (NCRS License)
-Copyright (c) 2022-2025 Ahmed Elbrawany
+# Commercial Share License (CSL)
 
-1. Permission is hereby granted to any person to use, copy, modify, and
-   distribute this software and its source code for personal, educational,
-   research, or other non-commercial purposes, free of charge.
+**Version 1.0**
 
-2. Commercial use of this software, including but not limited to use in
-   products or services that generate revenue, requires prior written
-   permission from the copyright holder.
+Copyright (c) 2022 Artifical Eye (A. Eye)
 
-3. If commercial use permission is granted, the commercial user agrees to
-   enter into a revenue-sharing agreement with the copyright holder. The
-   percentage split must be mutually agreed upon in writing before
-   commercial use begins.
+---
 
-4. Any commercial use without permission or without a revenue-sharing
-   agreement is strictly prohibited.
+## Preamble
 
-5. This software is provided "as is", without warranty of any kind,
-   express or implied, including but not limited to the warranties of
-   merchantability, fitness for a particular purpose and noninfringement.
-   In no event shall the authors be liable for any claim, damages or
-   other liability arising from the software or its use.
+This license applies to both the software and hardware designs included in this project. This project includes computer vision software and Raspberry Pi-based hardware designs.
 
-6. By using this software, you agree to these terms.
+## Terms and Conditions
+
+### 1. Definitions
+
+- **"Project"** refers to the software, hardware designs, documentation, and associated materials covered by this license.
+- **"Original Repository"** refers to the original source repository maintained by the copyright holders.
+- **"Commercial Use"** means any use of the Project, in whole or in part, for the purpose of generating revenue or other commercial advantage, including but not limited to: selling products or services that incorporate the Project, using the Project in a for-profit business operation, or licensing the Project to third parties for compensation.
+- **"Derivative Work"** means any modification, adaptation, or work based upon the Project.
+- **"You"** or **"Your"** refers to any individual or legal entity exercising rights under this License.
+
+### 2. Grant of Rights
+
+Subject to the terms of this License, the copyright holders grant You a worldwide, non-exclusive license to:
+
+- Use the Project for non-commercial purposes
+- Study and modify the Project
+- Create Derivative Works
+- Distribute copies of the Project or Derivative Works
+
+### 3. Conditions
+
+#### 3.1 Attribution
+
+You must:
+- Give appropriate credit to the original copyright holders
+- Provide a link to the Original Repository
+- Indicate if changes were made to the Project
+- Include this license with any distribution
+
+#### 3.2 Fork Requirement
+
+Any modifications or Derivative Works must be maintained in a separate fork or repository. You may not modify the Original Repository directly unless you are a designated copyright holder or contributor with explicit permission.
+
+#### 3.3 License Preservation
+
+Any Derivative Works must:
+- Retain this License in its entirety
+- Include clear reference to the Original Repository
+- Maintain attribution to all original copyright holders
+
+#### 3.4 Commercial Use and Revenue Sharing
+
+**For any Commercial Use of the Project or Derivative Works, You must:**
+
+1. **Notify the copyright holders** in writing of Your intention to use the Project commercially, including a description of the intended use.
+
+2. **Enter into a revenue sharing agreement** with the copyright holders prior to commencing Commercial Use.
+
+3. **Share agreed upon percentage of gross revenue** (or net profit - specify which) generated from products, services, or operations that incorporate the Project or Derivative Works. The specific percentage and payment terms shall be negotiated in good faith, with a default rate of 20% of gross revenue if no alternative agreement is reached within 30 days of notification.
+
+4. **Provide quarterly reports** detailing revenue generated from Commercial Use and remit payment within 30 days of each quarter's end.
+
+5. **Maintain accurate records** of all Commercial Use and related revenue for a minimum of 5 years, which shall be available for audit by the copyright holders upon reasonable notice.
+
+**Contact for Commercial Licensing:**
+- Email: ahmad_20th@tuta.io
+- Repository: https://github.com/ahmedelbrawany/A.Eye
+
+### 4. Hardware Designs
+
+Hardware designs, schematics, PCB layouts, CAD files, and related materials are subject to the same terms as the software components of this Project.
+
+### 5. Patent Grant
+
+Each copyright holder grants You a license under any patent claims they control that are necessarily infringed by the Project, to make, use, sell, and import the Project, subject to the terms of this License.
+
+### 6. Termination
+
+This License and the rights granted hereunder will terminate automatically if You fail to comply with any of its terms. Upon termination, You must cease all use and distribution of the Project and destroy all copies in Your possession.
+
+### 7. Disclaimer of Warranty
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+### 8. Limitation of Liability
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS IN THE PROJECT.
+
+### 9. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of Egypt, without regard to its conflict of law provisions.
